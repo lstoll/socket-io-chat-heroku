@@ -5,7 +5,7 @@
 var express = require('express')
   , stylus = require('stylus')
   , nib = require('nib')
-  , sio = require('../../lib/socket.io');
+  , sio = require('socket.io');
 
 /**
  * App.
